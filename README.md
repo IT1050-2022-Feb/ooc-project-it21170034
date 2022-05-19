@@ -2,7 +2,7 @@
 ooc-project-it21170034 created by GitHub Classroom
 
 Group - MLB_09.01_02
-Group Case Study - Online Study Portal
+Group Case Study - Online JobPortal
 
 Members -
 1. IT21170034 L.S. Farveen (Leader)
