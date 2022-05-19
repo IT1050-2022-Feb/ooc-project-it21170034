@@ -2,6 +2,7 @@
 
 #include "FAQ.h"
 #include "Feedback.h"
+#include "Profile.h"
 #include "User.h"
 #include "Company.h"
 #include "Job.h"
@@ -9,7 +10,6 @@
 #include "Seeker.h"
 #include "Admin.h"
 #include "Recruiter.h"
-#include "Profile.h"
 #include "Applicants.h"
 #include "SavedJobs.h"
 #include "SearchCompanies.h"
@@ -21,10 +21,10 @@ using namespace std;
 
 int main()
 {
-	
+
   FAQ faq1;
   cout << "1 FAQ working" << endl;
-  
+
   Feedback feedback1;
   cout << "2 Feedback working" << endl;
 
@@ -33,7 +33,7 @@ int main()
 
 	Seeker seeker1;
 	cout<<"14 Seeker working"<<endl;
-  
+
   Account acc1;
 	cout<<"15 Account working"<<endl;
 
@@ -51,7 +51,7 @@ int main()
 
   Profile p1;
   cout<<"9 profile working"<<endl;
-  
+
   SavedJobs sj1;
   cout << "8 SavedJobs working" << endl;
 
@@ -66,10 +66,10 @@ int main()
 
 	AppliedJobs aJ1;
   cout<<"13 AppliedJobs working"<<endl;
-  
+
   PostedJobs pj1;
 	cout<<"16 posted jobs working"<<endl;
-  
+
   cout << endl << "End of file." << endl;
 
   return 0;
